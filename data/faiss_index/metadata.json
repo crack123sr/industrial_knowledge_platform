@@ -1,0 +1,2609 @@
+[
+  {
+    "chunk_id": "9c9d1d60",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 0,
+    "total_chunks": 149,
+    "text": "OPERATION AND\nMAINTENANCE MANUAL\nBench Lathe\nArt. T999/230V \u2013T999/230V3A\nArt. T999/400V -T999/400V3A\nTRANSLATION OF THE ORIGINAL INSTRUCTIONS\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.250833",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "maintenance"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "406ee898",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 1,
+    "total_chunks": 149,
+    "text": "2of84PREFACE\nPlease ensure you have read this manual before operation\nTRANSLATION OF THE ORIGINAL INSTR UCTIONS\nIt is compulsory to read this instruction manual before starting operation. The guarantee of\nsmooth operation and full performance of the machine is highly dependent on the application\nof all the instructions contained in this manual.\nOperato r qualifications\nThe workers responsible for the use of this machine must have all the necessary\ninformation and instruction and should be given adequate training in relation to safety\nregarding:\na) Conditions of use for the equipment;\nb) Foreseeable abnormal s ituations, pursuant to Article 73 of Legislative Decree\n81/08.\nWe guarantee the Machine complies with the specifications and technical instructions\ndescribed in the Manual on the date of issuance and listed herein; On the other hand,\nthe machine may als o be subject to important technical changes in the future, without\nthe manual being updated.\nTherefore, contact FERVI for information about modifications that may have been\nimplemented.\nREV. 1 May 2013\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.250875",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "3fbfd595",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 2,
+    "total_chunks": 149,
+    "text": "3of84INDEX\n1GENERAL INFORMATION ................................ ................................ ........... 5\n2GENERAL SAFETY WARNI NGS................................ ................................ ...7",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.250906",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "16f003da",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 3,
+    "total_chunks": 149,
+    "text": "2.1 General safety rules for machin e equipment ................................ ................................ .7",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.250918",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "a8e52c2c",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 4,
+    "total_chunks": 149,
+    "text": "2.2 Safety rules for electrical machine equipment ................................ .............................. 9",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.250926",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "2080a0d6",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 5,
+    "total_chunks": 149,
+    "text": "2.3 Technical Assistance ................................ ................................ ................................ .....9",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.250935",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "848d6e0f",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 6,
+    "total_chunks": 149,
+    "text": "2.4 Other provisions ................................ ................................ ................................ ........... 9\n3TECHNICAL SPECIFICAT IONS ................................ ................................ .10\n4DESCRIPTION OF THE M ACHINE ................................ ............................. 11",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.250944",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "46bd123b",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 7,
+    "total_chunks": 149,
+    "text": "4.1 Intended use and field of application ................................ ................................ .......... 11",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.250955",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "5d719626",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 8,
+    "total_chunks": 149,
+    "text": "4.2 Description of the main parts ................................ ................................ ...................... 13\n4.2.1 Supporting table ................................ ................................ ................................ ......14\n4.2.2 Head and spindle ................................ ................................ ................................ .....14\n4.2.3 Spindle speed adjustment levers ................................ ................................ ................ 14\n4.2.4 Feed speed adjustment panel ................................ ................................ .................... 15\n4.2.5 Tool holder carriage ................................ ................................ ................................ .15\n4.2.6 Tailstock ................................ ................................ ................................ ................. 15\n4.2.7 Steady rest ................................ ................................ ................................ ............. 16\n4.2.8 Electric control panel ................................ ................................ ................................ 16\n4.2.9 Pedal brake ................................ ................................ ................................ ............. 16\n4.2.10 Rotation reverse lever ................................ ................................ .............................. 17",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.250967",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "81061b60",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 9,
+    "total_chunks": 149,
+    "text": "4.3 Identification plate ................................ ................................ ................................ .....17\n4.4Pictograms and plates ................................ ................................ ................................ .18\n5MACHINE SAFETY DEVIC ES................................ ................................ .....19",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.250994",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "bfcac02f",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 10,
+    "total_chunks": 149,
+    "text": "5.1 Electrical safety devices ................................ ................................ .............................. 19",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251005",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "521efb4d",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 11,
+    "total_chunks": 149,
+    "text": "5.2 Mechanical Safety Devices ................................ ................................ .......................... 20",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251013",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "fbb364c0",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 12,
+    "total_chunks": 149,
+    "text": "5.3 Personal Protective Equipment (PPE) ................................ ................................ ......... 21\n6FORBIDDEN USES AND H AZARDS ................................ ........................... 22\n7LIFTING, TRANSPORTAT ION AND STORAGE IN W AREHOUSE ................. 24",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251022",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "207eaef2",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 13,
+    "total_chunks": 149,
+    "text": "7.1 Lifting ................................ ................................ ................................ ......................... 24",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251033",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "65b6f3ce",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 14,
+    "total_chunks": 149,
+    "text": "7.2 Transportation ................................ ................................ ................................ ............ 24",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251041",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "aba9130d",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 15,
+    "total_chunks": 149,
+    "text": "7.3 Warehouse storage ................................ ................................ ................................ .....24\n8ASSEMBLY AND COMMISS IONING ................................ .......................... 25",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251049",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "9eba8ab0",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 16,
+    "total_chunks": 149,
+    "text": "8.1 Identification of the installation site ................................ ................................ ........... 25",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251059",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "a6050725",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 17,
+    "total_chunks": 149,
+    "text": "8.2 Support base ................................ ................................ ................................ ............... 25",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251068",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "b2c4f018",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 18,
+    "total_chunks": 149,
+    "text": "8.3 Levelling the machine ................................ ................................ ................................ .26\n8.3.1 Preliminary phase ................................ ................................ ................................ ....26\n8.3.2 Transverse levelling of the table ................................ ................................ ................ 26\nfervi.com",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251077",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "76249b34",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 19,
+    "total_chunks": 149,
+    "text": "4of848.3.3 Levelling the lathe rails ................................ ................................ ............................. 26",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251089",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "5990bef8",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 20,
+    "total_chunks": 149,
+    "text": "8.4 Operations before starting the machine. ................................ ................................ .....26\n8.4.1 Lubrication and greasing ................................ ................................ ........................... 26\n8.4.2 Connection to the power supply network ................................ ................................ .....26\n8.4.3 Open circuit test ................................ ................................ ................................ ......27\n9DESCRIPTION OF CONTRO LS................................ ................................ ..28",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251099",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "371953ff",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 21,
+    "total_chunks": 149,
+    "text": "9.1 Control buttons ................................ ................................ ................................ ........... 28\n9.1.1 Main switch ................................ ................................ ................................ ............. 28\n9.1.2 Electric and control panel buttons and lights ................................ ................................ 28\n9.1.3 Emergency button ................................ ................................ ................................ ....29",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251115",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "8c37f22b",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 22,
+    "total_chunks": 149,
+    "text": "9.2 Levers and control wheels ................................ ................................ .......................... 29\n9.2.1 Spindle speed adjustment knobs ................................ ................................ ................ 29\n9.2.2 Automatic feed speed adjustment knobs ................................ ................................ .....30\n9.2.3 Adjustment knob / lever of the split casing ................................ ................................ ..31\n9.2.4 Levers and handwheels of the carriage and tool holder slides ................................ ........ 32\n9.2.5 Lever and handwheel of the tailstock ................................ ................................ .......... 33",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251130",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "40e9b78c",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 23,
+    "total_chunks": 149,
+    "text": "9.3 Mechanical brake pedal of the spindle ................................ ................................ ........ 34",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251147",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "bd59f464",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 24,
+    "total_chunks": 149,
+    "text": "9.4 Digital display ................................ ................................ ................................ ............. 34\n9.4.1 Using the display ................................ ................................ ................................ .....35",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251155",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "82420459",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 25,
+    "total_chunks": 149,
+    "text": "10 OPERATION ................................ ................................ .......................... 46",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251165",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "efeadfa0",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 26,
+    "total_chunks": 149,
+    "text": "10.1 Automatic Feed Tool Carriage ................................ ................................ .................. 49",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251173",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "7a9de7cc",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 27,
+    "total_chunks": 149,
+    "text": "11 MAINTENANCE ................................ ................................ ..................... 51",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251181",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "maintenance"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "d188f4d3",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 28,
+    "total_chunks": 149,
+    "text": "11.1 Lubrication ................................ ................................ ................................ ............... 52",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251189",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "7b60492c",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 29,
+    "total_chunks": 149,
+    "text": "11.2 Periodic checks ................................ ................................ ................................ ........ 54",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251198",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "55cdf91c",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 30,
+    "total_chunks": 149,
+    "text": "11.3 Adjusting the Machine ................................ ................................ ............................. 54\n11.3.1 Adjusting the tension of the motor belts ................................ ................................ .....54\n11.3.2 Tailstock alignment ................................ ................................ ................................ ..55\n11.3.3 Spindle alignment ................................ ................................ ................................ ....55\n11.3.4 Adjusting the slack of the gears ................................ ................................ ................. 56",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251207",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "42a97db3",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 31,
+    "total_chunks": 149,
+    "text": "12 REPLACEMENT PARTS ................................ ................................ ........... 57",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251222",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "replacement"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "24b7e53c",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 32,
+    "total_chunks": 149,
+    "text": "12.1 ACCESSORIES SUPPLIED ................................ ................................ .......................... 80",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251257",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "b1ab1194",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 33,
+    "total_chunks": 149,
+    "text": "13 DISPOSAL OF PARTS AND MATERIA LS................................ ................. 81",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251266",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "6bc56311",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 34,
+    "total_chunks": 149,
+    "text": "14 TROUBLESHOOTING ................................ ................................ ............. 82",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251273",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "f208cda7",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 35,
+    "total_chunks": 149,
+    "text": "15 ELECTRIC CIRCUIT ................................ ................................ ............... 83",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251281",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "a56cdee1",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 36,
+    "total_chunks": 149,
+    "text": "15.1 Art. T999/400V ................................ ................................ ................................ ........ 83",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251289",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "2569c9dd",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 37,
+    "total_chunks": 149,
+    "text": "15.2 Art. T999/230V ................................ ................................ ................................ ........ 84\nfervi.com",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251296",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "090c90a3",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 38,
+    "total_chunks": 149,
+    "text": "5of841GENERAL INFORMATION\nThis manual is considered an integral part of the machine it was attached to at the time of\npurchase.\nThe manufacturer holds all ownership to material and intellectual property of this manual;\nany disclosure or copying, even partial, of this publication without prior written consent is\nforbidden.\nThis manual is designed to provide the k nowledge required for the use and maintenance of\ntheGear head lathe (Art. T999/230V \u2013T999/230V3A \u2013T999/400V T999/400V3A)\nand to provide the operator assigned to the device with a sense of responsibility and\nknowledge of its possibilities and limitations .\nOperators must be properly trained and prepared, so make sure that this manual is read and\nconsulted by the staff responsible for commissioning, operation and maintenance of the\nmachine. This is to make all operations as safe and effective as possible f or those who carry\nout these tasks. Therefore, it is imperative to strictly comply with the requirements in this\nmanual, a necessary condition for safe and satisfactory operation of the Lathe.\nBefore starting operation, installation and use of the machine , authorized staff must\ntherefore:\n\uf0b7read this technical document carefully;\n\uf0b7know which protections and safety devices are available on the Lathe, their location and\nhow they work.\nThe buyer is responsible for ensuring that users are properly trained, that they are aware of\nall the information and instructions in this document and that they are aware of the potential\nrisks of operating the Lathe.\nThe manufacturer will not be held responsible for any damage to people and/or\nproperty caused by non -compliance with any instructions in this manual.\nOperators will be held fully responsible for any changes they have made to the\nmachine; the manufacturer will not be held responsible for any damage to persons\nand/or property resulting from maintenance performed by u nqualified personnel\nand in a manner that differs from the operating procedures shown below.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251312",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "maintenance"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "0ce08646",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 39,
+    "total_chunks": 149,
+    "text": "6of84TheGear head lathe has been designed and built with mechanical guards and safety devices\ndesigned to protect the operator/user from possible injury.\nIt is stri ctly forbidden to modify or remove guards, safety devices and caution labels. If you\ndo so temporarily (for example, for the purposes of cleaning or repair), make sure that no\none can use the machine.\nGraphic representation of safety, operational and risk warnings\nThe following boxes are designed to attract the attention of the reader / user for the proper\nandsafe use of the machine:\nPay Attention\nThis highlights behavioural rules to prevent damage to the machine and/or the occurrence of\ndangerous si tuations.\nResidual Risks\nThis highlights the presence of dangers that cause residual risks to which the operator must\npay attention in order to avoid injury or damage to property.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251372",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "repair"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "b16a3a64",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 40,
+    "total_chunks": 149,
+    "text": "7of842GENERAL SAFETY WARNI NGS\n2.1General safety rules for machine equipment\nFollow the instructions contained herein, in addition to the general precautions to be observed\nwhile working. Even if the operator is already familiar with the use of manually operated lathes, it\nis necessary to: In particular:\n\uf0b7Acquire full knowledge of t he machine.\nFor safe operation, this manual must be read carefully in order to acquire the necessary\nknowledge of the machine and to understand: operation, safety devices and all\nnecessary precautions.\n\uf0b7Wear appropriate clothing for the job.\nThe operator mu st wear appropriate clothing to prevent accidents.\n\uf0b7Maintain the machine with care.\nRisks associated with using the machine\nThe machine must only be used by personnel who have been specially trained by authorized\npersonnel.\nRisks associated with usi ng the Machine\nDO NOT underestimate the risks associated with using the machine and concentrate on the\nwork in progress.\nRisks associated with using the Machine\nDespite the implementation of all the safety devices for safe use of the machine, it is\nnecessary to take note of all the requirements for the prevention of accidents detailed in the\nvarious sections of this manual.\nProtective equipment for the operator\nBefore starting any type of work, the operator must wear the appropriate personal prot ective\nequipment (PPE) such as goggles, gloves etc. (see section 5.3 of this manual).\n1.Always check the efficiency and integrity of the machine.\n2.Before connecting the machine to the mains, make sure that the rotating parts are not\ndamaged or badly worn. M ake sure that the switch is in the neutral position.\n3.Do not start the machine in an enclosed or poorly ventilated area, or in the presence of\na flammable and/or explosive atmosphere. Do not use the machine in damp and/or wet\nlocations, or those exposed to rain.\n4.Avoid starting accidentally.\n5.Before starting the machine, get used to ensuring that no remaining maintenance and\nservice keys are inserted.\n6.Keep the workplace tidy and free from obstruction; disorder causes accidents.",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251403",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "maintenance"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "7c5b84bb",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 41,
+    "total_chunks": 149,
+    "text": "7.Make sure that your work environ ment is forbidden to children, strangers and animals.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251461",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "78c9c949",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 42,
+    "total_chunks": 149,
+    "text": "8of848.Do not perform tasks on the machine other than those for which it was designed. Only\nuse the machine in the manner in which it was intended, as described in this\ninstruction manual.\n9.Work without disturb ances.\n10.Work areas must be well lit.\n11.Always wear eye protection and protective gloves while working. If dust is produced,\nuse the appropriate masks.\n12.Wear appropriate clothing. Loose clothing, dangling jewellery, long hair, etc.., can get\ncaught in the movin g parts, causing irreparable injury.\n13.Firmly secure the workpiece before starting the lathe, using the jaws installed on the\nspindle.\n14.Always use the tool in an appropriate manner. Perform only the work for which the tool\nis made. Do not use the tool for ina dequate work.\n15.Only use suitable resistance tools in relation to the work that is to be done. This is to\navoid risky and unnecessary overloading for the operator, which may be harmful for\nthe life of the tools themselves.\n16.Do not pick up moving tools or othe r moving parts. To stop the moving parts on the\nmachine, always only use the stop command device.\n17.Before performing any measurement of the workpiece mounted on the spindle, turn the\nmotor off, unplug it and wait for the spindle to stop.\n18.Do not remove the shavings with your hands, even at a standstill. To do this, use tongs\nor a palette knife.\n19.When the work tools need to be replaced or the speed needs to be changed, stop the\nmotor and wait for the spindle to stop.\n20.Do not move away from the machine until th e tools and other moving parts, have\ncompletely stopped.\n21.After the work is completed, clean the tool and check its efficiency.\n22.Replace worn and/or damaged parts, check that the repairs and protections work\nproperly before operating. Eventually, if necessar y, have it checked by Service staff.\nUse only original spare parts.\n23.Unplug the power cord of the machine from the power outlet when:",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251475",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": [
+          "repair"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "3f717dd3",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 43,
+    "total_chunks": 149,
+    "text": "\uf0b7the machine is not being operated;\n\uf0b7it is left unattended;\n\uf0b7performing maintenance or registration, because the machine does not work properly;\n\uf0b7the power cable is damaged;\n\uf0b7the tool is replaced;\n\uf0b7it is being moved or transported;\n\uf0b7during cleaning operations.\n24.It is recommended that users of this publication, for maintenance and repair, have a\nbasic knowledge of the mechanical princi ples and procedures inherent in repair\ntechnique.\n25.The company safety officer is required to make sure that machine operators\nhave read and understood this manual in its entirety.\n26.Management is responsible for safety and verification of the company's risk\nstatus according to Legislative Decree 81/08.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251513",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "repair",
+          "maintenance"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "5e0e4b91",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 44,
+    "total_chunks": 149,
+    "text": "9of842.2Safety rules for electrical machine equipment\nChanges in the Electrical System\n1.Do not modify the machine's electrical system in any way. Any attempt to do so may\nimpair the operation of the electrical devi ces causing a malfunction or accident.\n2.Work on the electrical system of the machine must therefore be carried out only by\nqualified and authorised personnel.\n3.If you hear unusual noises, or notice anything unusual, stop the machine immediately.\nThen, carry out an inspection and, if necessary, perform any repairs as required.\n1.The supply voltage must correspond to that stated on the identification plate and in the\ntechnical specifications (400 V / 50 Hz or 230 V 50 Hz). Never use any other type of\npower supp ly.\n2.The use of a lifesaving device on the power supply line is recommended. For more\ndetailed information, contact a trusted electrician.\n3.The power plug must be a grounded tripolar type plug for T999/400V and a grounded\nbipolar plug for T999/230V. Any exte nsion cords must be of equal or greater length\nthan the power cord on the machine.\n4.Make sure that the power cord does not come into contact with hot objects, wet or oiled\nsurfaces, and/or sharp edges.\n5.The power cord should be checked regularly and before e ach use to check for signs of\ndamage or wear. If these are not in good condition, do not use the machine and replace\nthe cable.\n6.Do not use the power cord to remove the plug from the socket or move the machine.\n2.3Technical Assistance\nFor any problems or conce rns, please do not hesitate to contact the dealer who sold the item.\n2.4Other provisions\nTAMPERING WITH SAFETY DEVICES IS FORBIDDEN\nCheck the presence and integrity of protective devices and the proper functioning of safety\ndevices before starting operation.\nIf any defect is detected, do not use the Gear head lathe!\nIt is strictly forbidden to modify or remove guards, safety devices, labels and information\nplates on the machine.\nfervi.com\nMACHINES AND",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251543",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "repair",
+          "inspection"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "9dd5cce0",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 45,
+    "total_chunks": 149,
+    "text": "10of843TECHNICAL SPECIFICAT IONS\nDescription (unit of measurement) T999/230V T999/400V\nCentres distance (mm) 1000\nSpindle hole diameter (mm) 38\nMaximum swing over the bed (mm) 320\nMaximum swing over the cross slide (mm) 198\nTurning diameter over cavity (mm) 470\nSpindle diameter (3 + 3 self centring) (mm) 160\nSpindle connector Camlock D1 -4\nNo. of spindle speeds 8\nSpindle speed (r/min) 70-2000 RPM\nNo. of metric threads 32\nRange of metric threads (mm) 0.44-10\nNo. of inch threads 20\nRange of inch threads (mm) 2 \u00bc -40\nRange of longitudinal feeds (mm) 00.78 -1.044\nRange of transverse feeds (mm) 0.022 -0.298\nOuter diameter of the feed screw (mm) 22\nGuide length (mm) 1390\nCross carriage travel (mm) 200\nTailstock sleeve diameter (mm) 32\nMaximum travel of the tailstock sleeve (mm) 80\nInner taper CM 5\nTailsto ck base length (mm) 165\nTailstock base width (mm) 125\nSteady rest diameter (mm) 120\nDimensions (W x D x H) (mm) 1820 x 530 x 1350\nPackage dimensions (W x D x H) (mm) 1920 x 840 x 1560\nWeight of machine (kg) 520\nVoltage / power supply frequency (V / H z) 230/50. 400 / 50\nMotor power (W) 1500/1800\nAcoustic pressure level at operator's workstation\n(dB(A))84\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251581",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "e2e4991f",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 46,
+    "total_chunks": 149,
+    "text": "11of844DESCRIPTION OF THE M ACHINE\nTheGear head lathe (Art. T999/230V e T999/400V) is a machine tool, with a horizontal\naxis, for the machining of meta llic materials by means of cold chip removal.\nThe cutting motion is given by the motion of the workpiece, rotating on its own axis, and the\nfeed motion of the tool.\nThe machine is completely manually operated , as it can only execute movements under the\ndirect control of the operator.\n4.1Intended use and field of application\nThe machine is designed and built to perform the following operations on all types of ferrous\nmetals:\n\uf0b7Cylindrical turning;\n\uf0b7Taper turning;\n\uf0b7Facing;\n\uf0b7Profiling\n\uf0b7Drilling;\n\uf0b7Boring;\n\uf0b7Threading;\n\uf0b7Cutting / Breaking (from bar).\nIntended use and materials\nThe machine has been designed and manufactured for the use specified. Operating the\nmachine other than as intended and non -observance of the technical parameters laid down\nby the Manufacturer may be dangerous for operators; therefore the former cannot accept any\nresponsibility for resulting damage.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251618",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "0aa38f86",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 47,
+    "total_chunks": 149,
+    "text": "12of84The lathe is equipped with a support base and must be installed and used on flat surfaces,\nwith ergonomic features and adequate resistance.\nThe Lathe can operate in closed work environments (production halls, warehouses, etc.), i.e.\nprotected from the weather and where there is no danger of fire or explosion.\nThe operating temperature range is -20 to +50\u00b0C.\nThe environment must also be sufficiently i lluminated so as to ensure operation in maximum\nsafety (at least 200 lux is recommended).\nThere are two main groups within the Lathe (see figure 1):\n\uf0b7The spindle shaft unit;\n\uf0b7The sliding tool holder unit.\nThe first is constituted by the spindle, which is m adeintegral with the workpiece, and by the\ncomponents that transmit motion from the motor to the spindle.\nThe second is constituted by the components that transmit motion to the slide, which guides\nthe tool in the feeding motion and movement of the wor kpiece.\nFigure 1\u2013Typical main groups of the bench lathe.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251655",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "f623b4de",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 48,
+    "total_chunks": 149,
+    "text": "13of844.2Description of the main parts\nFigure 2\u2013Main parts of the gear head lathe (Art. T999/230V and T999/400V).\n1Brake 9Protective device 17Tailstock handwheel\n2Carriage handwheel 10Halogen lamp 18Support bars\n3Workbench 11Turret 19Lead screw\n4Speed switches 12Coolant tube 20Turning bar\n5Side cover 13Longitudinal turret travel\n(mm)21Bar for lathe activation\n6Control panel 14Micrometer 22Tray\n7Electrical controls 15Tailstock block 23Transmission activation lever;\n83-jaw lathe spindle 16Guides 24Digital display4\n1 256\n378 910\n11 1213\n14 15\n1617\n18\n19\n20\n21\n222324\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251689",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "896d9d01",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 49,
+    "total_chunks": 149,
+    "text": "14of844.2.1 Supporting table\nThe supporting table (ref. 2 in figure 2 ) is made of cast iron; the casting has been stabilized\nto avoid twisting and/or deformation due to the internal stresses in the material. In the upper\npart there are prismatic guides that ensure the movement and alignment of the drive head\nwith t he carriage and the moving head (tailstock). The guides are hardened and ground.\nReinforcements ribs have been incorporated that increase rigidity.\n4.2.2 Head and spindle\nThe head is made of high strength cast iron, in addition two internal protrusions which h ave\nbeen introduced that increase rigidity, reducing vibration during high speed machining.\nThe different spindle speeds are obtained by means of a gear speed change (see also section\n4.2.3 of this manual).\nThe head is made of high strength cast iron, in a ddition two internal protrusions which have\nbeen introduced that increase rigidity, reducing vibration during high speed machining.\nThe different spindle speeds are obtained by means of a gear speed change (see also section\n4.2.3 of this manual).\nThe spin dle (see figure 3) is installed on the head shaft, and is\nsupported by two precision bearings. It is self-centring , with\nthree terminals (jaws) which permit the clamping of the workpiece\nin a safe and stable way. For the opening / closing of the jaws it is\nnecessary to insert a special key in the housing (square cross -\nsection), on the outer contour of the spindle. For a more detailed\nexplanation on this subject, see section 10 of this manual.\nThe danger zone, in the vicinity of the spindle, is protected by a\nmoveable interlocking guard (see figure 3), which consists of a tin\nscreen plate with micro -safety switch.\nFigure 3\u2013Spindle\n4.2.3 Spindle speed adjustment levers\nThe panel for the adjustment of the spindle rotation speed (see\nfigure 4), is positioned at the left part of the machine, between the\nspindle and the feeding speed change gearbox. It is equipped with",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251719",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "614560a9",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 50,
+    "total_chunks": 149,
+    "text": "two levers for selection of the desired rotation speed, depending on\nthe type of processing and the material.\nFigure 4\u2013Speed\nadjustment lever.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251773",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "d87ae604",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 51,
+    "total_chunks": 149,
+    "text": "15of844.2.4 Feed speed adjustment panel\nThe panel for the adjustment of the spindle rotation speed (see\nfigure 5), is positioned at the left part of the machine, under the\nspindle speed adjustment panel. The lathe is provided with gears\nthat can guarantee the considerable availability of feeds and\nthreads (metric and inch). The selection of the steps is made using\n4 rotary knob switches which control the gear speed change. There\nis also a fifth knob for selecting th e feed direction of the carriage.\nFigure 5\u2013Speed\nadjustment.\n4.2.5 Tool holder carriage\nThe carriage sliding along the rails of the bed is used to hold,\nposition and feed the tool. The various parts (see figure 6), are\nmade of cast iron, with hardened and ground guides for greater\nstability. The carriage is equipped with an independent system that\nensures the lubrication of the moving parts.\nThe handwheels to move the carriage and the levers are easy to\nreach and easy to use.\nFigure6\u2013Tool holder\ncarriage.\n4.2.6 Tailstock\nThe tailstock (see figure 7) is constituted by a cast iron body that\nensures rigidity and stability in any conditions of use. The tailstock\nbody is equipped with a locking system on the lathe guides, with a\nlever. An adjustment screw, allows axial alignment of the tailstock\nto be achieved. Inside a steel sleeve has been fitted. Movement is\napplied via a handle equipped with a micrometer.\nFigure 7\u2013Tailstock.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251789",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "f7e7ea0a",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 52,
+    "total_chunks": 149,
+    "text": "16of844.2.7 Stead y rest\nIn the operations of drilling, boring and facing, the tailstock can not\nbe used to secure the work piece.\nOn the other hand, if the pieces are long and heavy, it is not\nenough to use only a self -centring spindle, but you must attach one\nend of the work piece using a tool called a steady rest (see figure\n8)\nThey are supplied with two rests: steady rest and follow rest\nFigure 8\u2013Rests.\n4.2.8 Electric control panel\nFigure A Figure B\nFigure A",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251832",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "1f845db0",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 53,
+    "total_chunks": 149,
+    "text": "WHITE WARNING LIGHT : Indicat es the presence of voltage",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251852",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "e25909f4",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 54,
+    "total_chunks": 149,
+    "text": "BLACK SELECTOR : Coolant pump selector",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251859",
+      "entities": {
+        "equipments": [
+          "pump"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "0676ae0f",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 55,
+    "total_chunks": 149,
+    "text": "GREEN BUTTON : Gears application button",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251866",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "0c310584",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 56,
+    "total_chunks": 149,
+    "text": "RED MUSHROOM : EMERGENCY STOP\nFigure B\nMain switch with safety key\n4.2.9 Pedal brake\nThe machine is equipped with a mechanical brake pedal that slows o r stops the rotation of\nthe spindle as required. Releasing the foot stops the braking action.\nFigure 9\u2013Emergency stop.\nfervi.com",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251876",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "821538ac",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 57,
+    "total_chunks": 149,
+    "text": "17of844.2.10 Rotation reverse lever\nLever for reversing the rotation direction of the electric motor. The lever is locat ed to the\nright of the tool holder carriage.\nFigure 10\u2013Reverse lever.\n4.3Identification plate\nOn the machine, and in particular on the feed speed change gearbox, there is the following\nidentification plate (see Figure 11):\nFigure 11\u2013Identification plate.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251892",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "fb458d36",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 58,
+    "total_chunks": 149,
+    "text": "CAUTION AND WARNING P ICTOGRAMS .\nThe following pictogram has been applied to the side of the electrical panel:\n\uf0b7Hazard / warning plate.\nProhibitive warning for carrying out work on live equipment.\n\uf0b7Hazard plate.\n\uf0b7The removal of safety guards is forbidden.\n\uf0b7Electrical hazard symbol",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251910",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "4d86afbe",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 59,
+    "total_chunks": 149,
+    "text": "PLATE IN ITALIAN PLATE IN ENGLISH",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251924",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "351921f3",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 60,
+    "total_chunks": 149,
+    "text": "ATTENZIONE\n\u00c8 VIETATO ESEGUIRE LAVORI SU",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251931",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "3ec7ed9b",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 61,
+    "total_chunks": 149,
+    "text": "APPARECCHIATURE ELETTRIC HE SOTTO",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251938",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "14424b31",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 62,
+    "total_chunks": 149,
+    "text": "TENSIONE\n\uf0b7EVENTUALI DEROGHE DEVONO ESSERE",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251945",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "802f9011",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 63,
+    "total_chunks": 149,
+    "text": "AUTORIZZATE DAL CAPO RESPONSABILE\n\uf0b7IN CONDIZIONI DI PARTICOLARE PERICOLO DEVE",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251954",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "dc0def81",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 64,
+    "total_chunks": 149,
+    "text": "ESSERE PRESENTE UN\u2019ALTRA PERSONA OLTRE A CHI",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251962",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "e5d04e11",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 65,
+    "total_chunks": 149,
+    "text": "INIZIARE I LAVORI SOLO AD AVVENUTA",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251970",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "007bed54",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 66,
+    "total_chunks": 149,
+    "text": "ATTAZIONE DELLE MISURE DI SICUR EZZA\nIn ottemperanza al Dgs.81/08 relativo alla prevenzioni\ninfortuni",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251977",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "17a46cb7",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 67,
+    "total_chunks": 149,
+    "text": "IT IS PROHIBITED TO WORK ON LIVE ELECTRICAL",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251985",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "d67e1845",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 68,
+    "total_chunks": 149,
+    "text": "EQUIPMENT\n\uf0b7ANY EXCEPTIONS MUST BE APPROVED BY THE HEAD",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.251992",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "2ac0f43e",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 69,
+    "total_chunks": 149,
+    "text": "MANAGER\n\uf0b7UNDER PARTICULARLY DANGEROUS CO NDITIONS,",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252000",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "08bffcd7",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 70,
+    "total_chunks": 149,
+    "text": "ANOTHER PERSON MUST BE PRESENT WHO IS NOT",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252008",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "ee8169e7",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 71,
+    "total_chunks": 149,
+    "text": "ONLY BEGIN WORKING WHEN SAFETY MEASURES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252015",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "9f36f4f5",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 72,
+    "total_chunks": 149,
+    "text": "HAVE BEEN IMPLEMENTED\nIn accordance with Legislative Decree 81/08 on accident\nprevention\nNON",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252021",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "f83a113e",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 73,
+    "total_chunks": 149,
+    "text": "THE SAFETY DEVICES\nFigure 12-Pictograms\nfervi.com",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252029",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "02e606db",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 74,
+    "total_chunks": 149,
+    "text": "19of845MACHINE SAFETY DEVIC ES\n5.1Electrical safety devices\nThe electrical circuit of the lathe is equipped with a rotary main switch with a safety key\n(see chapter 9.1 of this manual). This prevents the danger of unwanted and/or accidental\nstarts of the machine, since the switch can o nly be activated through a voluntary action\nsuitable for the given purpose and if a suitable key is available.\nThe machine is also equipped with an emergency stop button (mushroom type). In an\nemergency, if pressure is applied to the mushroom button, the dangerous functions stop.\nThe electric control panel is powered by 24V DC voltage; the presence of a transformer\nminimises the the danger of electrocution.\nThe Lathe's power supply connection must be equipped with a grounding conductor\naccording to regulat ions.\nElectric Shock\nImproper connection of the Lathe and/or the grounding conductor can result in the risk of\nelectric shock.\nThe use of a lifesaving device on the power supply line is recommended. For more detailed\ninformation, contact a trusted ele ctrician.\nCheck with a qualified electrician if you don't understand the grounding instructions\nor if you have any doubts about grounding the machine.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252047",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "be6d058e",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 75,
+    "total_chunks": 149,
+    "text": "20of845.2Mechanical Safety Devices\nProtective screens\nThe screens and guards have the role of protecting the oper ator by preventing coolant, chips,\nsplinters, tool fragments or even the workpiece, which may detach, from being projected\ntowards the face or torso. The screens are fixed or mobile (see Figure 13).\nFigure 13\u2013Position of the protective screens.\nLEGEND:\n1:Gearbox guard (fixed);\n2:Protective screen for the spindle (movable interlocked);\nThe interlocking movable guards, are equipped with suitable safety switches, connected to\nthe machine' s control system (electric circuit), so that the opening of the movable screen\ncauses the motion of the spindle and the dangerous moving parts to stop.\nChecking the Safety devices\n\uf0b7Each time the Lathe is used, check that the safety devices function and are positioned\nproperly.\n\uf0b7In case of damage and/or breakage, do not use the machine.\nPedal brake\nThe machine is equipped with a mechanical brake pedal that slows or stops the rotation of\nthe spindle as required (ref. 1 in Figure 2).\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252080",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "557fedc7",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 76,
+    "total_chunks": 149,
+    "text": "21of845.3Personal Protective Equipment (PPE)\nUse of PPE",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252112",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "03b6985c",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 77,
+    "total_chunks": 149,
+    "text": "ALWAYS use appropriate personal protective equipment (PPE) such as (see Figure 14):\n\uf0b7Gloves;\n\uf0b7Goggles or face shields;\n\uf0b7Overalls or aprons;\n\uf0b7Safety shoes.",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252121",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "ed98effa",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 78,
+    "total_chunks": 149,
+    "text": "CLOTHINGPROTECTIVE\nSHOES\nFigure 14\u2013Personal Protective Equipment.\nfervi.com",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252132",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "6d6d848d",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 79,
+    "total_chunks": 149,
+    "text": "22of846FORBIDDEN USES AND H AZARDS\nThe modes of use specified in this manual as incorrect, should never be permitted , under\nany circumstances.\nUsing the machine for turning non -ferrous materials, for unauthorised manoeuvres, its\nmisuse and lack of maintenance can result in serious danger to the safety of the staff,\nespecially the operator, as well as affecting the functionality and the intrinsic safety of the\nmachine itself.\nThe following actions described, which obviously can not cover the entire range of potential\npossibilities of \"misuse\" of the machine, are those which are \"reasonably\" more pr edictable\nand should be considered strictly prohibited.\nTHE FOLLOWING IS STRICTLY PROHIBITED!\n\uf0b7Supplying the machine with voltage from the mains that is different from that shown on\nthe identification plate (230V, 50 Hz).\n\uf0b7Using the machine for services other than those for which it is intended;\n\uf0b7Using the machine without having read the operating i nstructions and without due care.\n\uf0b7Using the machine, and in particular carrying out manual loading without the use of\nappropriate personal protective equipment (PPE) according to the instructions given in\nthis manual.\n\uf0b7Using the machine and, particularly, t he tool improperly.\n\uf0b7Picking up moving tools or other moving parts.\n\uf0b7Taking measurements of the workpiece mounted on the spindle, without turning the\nmotor off, unplugging it and waiting for the spindle to stop.\n\uf0b7Removing chips with your hands.\n\uf0b7Replacing the work tools or carrying out the speed change, without stopping the motor,\ndisconnecting the plug and waiting for the machine to stop.\n\uf0b7Modifying and/or tampering with the safety devices of the lathe.\n\uf0b7Using the machine as a support and/or work surface.\n\uf0b7Climb ing on the machine.\n\uf0b7Touching the machine with wet and/or damp hands.\n\uf0b7Using the machine when barefoot.\n\uf0b7Exposing the machine to the elements (sun, rain, hail, etc..).\n\uf0b7Using jets of water\n\uf0b7Using the machine without fastening it securely.\n\uf0b7Cleaning and/or maint aining the machine without fastening it securely.",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252149",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": [
+          "maintenance"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "63e38388",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 80,
+    "total_chunks": 149,
+    "text": "\uf0b7Installing and using the machine on surfaces that are not sufficiently flat and smooth.\n\uf0b7Installing and using the machine on surfaces that are not hard and strong enough to\nsupport its weight.\n\uf0b7Installing and using the machine outdoors.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252202",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "85e0dee8",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 81,
+    "total_chunks": 149,
+    "text": "23of84\uf0b7Using the machine in a dark place.\n\uf0b7Allowing untrained personnel to use the machine.\n\uf0b7Operating this machine without being psychophysically fit;\n\uf0b7Allowing untrained and unqualified personnel to carry out maintenance, and without\ncomplying with the procedures specified in this manual.\n\uf0b7Performing maintenance operations in insufficient conditions of lighting and/or visibility.\n\uf0b7Performing cleaning and/or maintenance without disconnecting the power plug.\n\uf0b7Changing the machine's electrica l system.\n\uf0b7Moving the machine without using suitable lifting equipment.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252218",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "maintenance"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "e13008a0",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 82,
+    "total_chunks": 149,
+    "text": "24of847LIFTING, TRANSPORTAT ION AND STORAGE IN\nWAREHOUSE\n7.1Lifting\nTo lift the Lathe, proceed as follows:\n1.To achieve perfect balance, move the tailstock all the way to the end on the right side of\nthe table and securely fix it with the locking lever;\n2.At the same time, slide the tool holder carriage until the perfect machine balance is obtained.\nBreaking of the guide rails\nMake sure that the harnessing accessories are not touching the guide ra ils and the lead screw,\nwhich could be damaged beyond repair.\n1.Attach the hook of the lifting equipment (cranes, hoists, etc..) in the centre of harness\naccessories (between the two side ends) and lift slowly and smoothly.\nThe manufacturer declines all re sponsibility for any damage to people and/or\nobjects caused by the improper lifting of the machine performed by unsuitable\npersonnel, with inappropriate lifting means and without following the instructions\nin this manual.\n7.2Transportation\nThe transport of t he machine can be carried out through the aid of vehicles and/or industrial\ntransportation vehicles, such as trucks, with containers of sufficient size to hold the machine\nitself. The machine must be suitably anchored to the means of transport (for example ,\nthrough the aid of ropes).\nDuring transport, the machine must be protected from rain, snow, hail, wind, and any other\nadverse weather conditions. In this regard, it is advisable to use means of transport with\nclosed compartments (vans, trucks etc.) or po ssibly covered with tarpaulin.\n7.3Warehouse storage\nIn the event that the machine is to be stored and unused for some time before being put into\nservice again, proceed as follows:\n1.Disconnect the power supply cable;\n2.Protect the machined parts (such as the gui des, the carriage and the tool holder slides,\nspindle, the tailstock quill etc..) with protective liquid and/or grease;\n3.Store in a dry place, free from dust and contaminating agents. Climatic conditions\nrecommended for storage:\nTemperature: -15\u00b0 / + 55\u00b0 C ;\nHumidity: 95% (non -condensing).\nShock Protection",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252270",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "repair"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "f596c89c",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 83,
+    "total_chunks": 149,
+    "text": "Make sure the Lathe is protected from knocks and vibrations.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252319",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "c7ffc686",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 84,
+    "total_chunks": 149,
+    "text": "25of848ASSEMBLY AND COMMISS IONING\n8.1Identification of the installation site\nTo install the machine, identify an area that is well lit, away from w et areas and has no\nsources of vibration nearby.\nThe lathe must be located so that adequate space is available for the operator, so you can\nuse it to its full potential, and safely adjust, maintain and clean the machine. In this regard,\nan area of at least two square metres in front of the machine must be kept free.\nInstalling the Machine\nDo not install the Machine outdoors to avoid deformation, loss of function and damage to the\nelectrical control circuit.\n8.2Support base\nIt is essential that the machine is positioned on a uniform, flat supporting surface that has\nsufficient strength to support it in any condition which may occur during normal use.\nLoss of Stability\nInstall the Lathe on a solid and strong support surface to avoid it falling over and v ibrations;\nTo ensure stability, excellent results and minimize vibrations, we recommend affixing the\nmachine using the metal feet with threaded stems and rubber base. For the dimensions and\nthe positions of the points of support, where the feet are put, seeFigure 15.\nFigure 15\u2013Dimensions and fastening points.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252333",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "867e4b55",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 85,
+    "total_chunks": 149,
+    "text": "26of848.3Levelling the machine\nFor this operation, it is recommended to use a precision spirit level (0.001 mm).\n8.3.1 Preliminary phase\nThe preliminary ph ase serves to eliminate the presence of torsions in the lathe table. Proceed\nto reset the head by adjusting the relative screws and then locking the tailstock with the\nrelative adjustment screws moving the reference mark to zero.\n8.3.2 Transverse levelling of th e table\nPosition the spirit level in a transverse direction on the lathe guides under the spindle and\ncheck the bubble.\nPosition the spirit level in a transverse direction on the table guides under the tailstock and\ncheck the bubble.\nRepeat these operatio ns frequently and, if necessary, make small corrections by screwing\nand/or unscrewing the adjustable feet below the pallet.\n8.3.3 Levelling the lathe rails\nPlace the level on the sides of the carriage and move it slowly along its entire length while\nchecking tha t the bubble does not change.\nIf the bubble moves, adjust the adjustable feet until it reaches a uniform level throughout the\nentire course of the carriage .\nPeriodically check these measurements (at least every six months).\nLevelling the machine perfectl y is one of the first and most essential steps to carry\nout before using the machine.\n8.4Operations before starting the machine.\n8.4.1 Lubrication and greasing\nBefore you start the machine, it should be lubricated and greased as described in section\n11.1, on \"Lubri cation\".\n8.4.2 Connection to the power supply network\nConnect the power supply cable to the terminal inside the electrical cabinet. Connect the\nthree phases to the connectors on the body of the terminal and the grounding conductor to\nthe connector on the left si de of the terminal itself.\nConnection\nEnsure the perfect connection of the power cord.\nThe plant to which the machine is connected must have a suitable system for the automatic\ndisconnection of electric power, for protection against indirect contacts.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252385",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "d35388d9",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 86,
+    "total_chunks": 149,
+    "text": "27of848.4.3 Open circuit test\nManually rotate the hand wheels on the carriage 's tool carrier slides and tailstock quills to\nverify that these move freely and without friction.\nStart the machine by turning the main switch to the position I and the activation lever to\nreverse the rotation of the spindle (see Figure 16) and make sure that the electric motor and\nspindle are working properly.\nTest the operation of the lever for reversing the rotation of the electric motor.\nTest the brake pedal, the spindle should slow down and eventually stop.\nTest the emergency stop button, the whole machine should stop.\nOperate the machine for a few minutes, checking the entire series of spindle speed change\ngears, starting with low speeds.\nEjection of obje cts\nDuring the test run, no operator and no other person should be within range of the machine.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252424",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "9b1403a6",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 87,
+    "total_chunks": 149,
+    "text": "28of849DESCRIPTION OF CONTR OLS\n9.1Control buttons\n9.1.1 Main switch\nThe main switch with safety key is located on the left side of the electric panel, and it is\nuseful to prevent unauthorised use of the machine.\nTo power the machine (see Figure 16), in fact, it is necessary to:\n\uf0b7insert the safety key into the lock to the left of the switch (marked R.L.);\n\uf0b7turn the key clockwise and simultaneously tu rn the main switch to \"I\", by turning it\nclockwise.\nFigure 16-Main switch.\nConfirm the white power light has turned on, found on the electrical panel (marked POWER).\n9.1.2 Electric and control panel buttons and lights\nFigure 17\u2013Electrical and control panel.\nThe electrical panel has the following controls:\n\uf0b7RED MUSHROOM : Emergency button (red mushroom).\n\uf0b7WHITE WARNING LIGHT : Indicates the presence of voltage\n\uf0b7BLACK SELECTOR : Coolant pump selector\n\uf0b7GREEN BUTTON : Gears application button\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252451",
+      "entities": {
+        "equipments": [
+          "pump"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "5664c2f3",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 88,
+    "total_chunks": 149,
+    "text": "29of849.1.3 Emergency button\nAdditionally on the electric panel there is a emergency stop switch:\nTo stop the machine, in cases of emergency, press the red mushroom shaped button. When it\nis pushed, the motion of the electric moto r and other rotating parts is interrupted.\nBefore you begin work, always make sure that the mushroom button is raised. To restore\npower to the machine again after an emergency stop, turn the mushroom clockwise and lift\nit.\nChecking the Emergency Button\nBefore starting any work on the machine, ensure that the emergency stop button functions.\nIn case of emergency\nIn an emergency, press the red emergency button to stop the machine.\nRisk of abrasion and/or cutting\n\uf0b7After pressing the stop or emerge ncy switch, the spindle will continue to rotate by inertia.\n\uf0b7Do not hold body parts near the moving spindle!\n9.2Levers and control wheels\n9.2.1 Spindle speed adjustment knobs\nThe panel for the adjustment of the spindle rotation speed (see Figure 16), is positioned at\nthe left part of the machine, between the spindle and the gearbox. It is equipped with two\nlevers, marked with colours, letters and numbers, for selection of the desired rotation speed,\ndepending on the type of processing and the material to be process ed.\nFigure 18\u2013Speed adjustment knobs.\nTo select the desired rotation speed, turn the knobs to the corresponding positions, according\nto the instructions given in this manual or on the rotation speed plate attached directly to the\nmachine (see Figure 16).\nSpindle speed adjustment\nBefore changing the spindle speed, always stop the electric motor of the machine.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252488",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "513e03ef",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 89,
+    "total_chunks": 149,
+    "text": "30of849.2.2 Automatic feed speed adjustment knobs\nFigure 19-Feed adjustment knobs.\nThe panel for automatic feed speed adjustment (see Figure 19), is\npositioned at the left part of the machine, under the spindle rotation\nspeed adjustment panel.\nThe different speeds are selected via 4 knob swit ches which control the\ngear speed change (ref. F,G,H,IinFigure 19). There is also a fifth\nknob for selecting the feed direction of the carriage (ref. EinFigure\n19).\nThreading\nTo make a thread:\nOperate the knob (I), insert the bar for threading in 4 positions ( see\nFigure 20);\n\uf0b7Position the two knobs ( F) (G) and ( H) according to the\ninstructions given in this manual or on the rating plate for the\nfeed speed installed directly on the machine\nN.B.: When carrying other machining position the selector I in\nposition 0 (see Figure 20)\nFigure 20\u2013Close -\nup of knob\nE\nF\nHI\nG\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252538",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "ee381fa7",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 90,
+    "total_chunks": 149,
+    "text": "31of849.2.3 Adjustment knob / lev er of the split casing\nThe casing adjustment knob and lever for the transfer of motion from the lead screw to the\ntool holder carriage (see Figure 21), are located at the sides of the tool holder carriage itself.\nFigure 21\u2013Close -up of knob and lever.\nBy turning the knob or lever 90\u00b0, the split casing \"closes\" on the lead screw, creating a rigid\ncoupling between the two, and allowing the transfer of motion from the lead screw to the tool\nholder carriage (and to the tool) for the automatic feed for threading operations.\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252567",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "40c3a5f8",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 91,
+    "total_chunks": 149,
+    "text": "32of849.2.4 Levers and handwheels of the carriage and tool holder slides\nOn the tool holder carriage there are five manual controls (levers and handwheels) for\ncarrying ou t fine adjustments and feeding (see Figure 22).\nFigure 22\u2013Lever and handwheel of the carriage.\n(I) Split casing lever : See section 9.2.3.\n(J) Lever for selection of transverse or longitudinal feeds: The lever selects the type\nof automatic feed desired. To operate the transverse feed, forward and backward, move the\nlever to the right (toward the tailstock), to operate the longitudinal feed, left and right, move\nthe lever to the l eft (toward the spindle).\n(K) Handwheel for longitudinal displacement of the tool holder slide: The handwheel\nallows the quick longitudinal displacement, to the right and left, of the tool holder slide. To\nmove the slide to the left (towards the spindle), turn the handwheel clockwise and vice versa\nto move the slide to the right (towards the tailstock), rotate the handwheel anticlockwise.\n(L) Handwheel for longitudinal movement of the carriage: The handwheel allows the\nquick longitudinal displacement, to th e right and left, of the tool holder carriage. To move the\ncarriage to the right (towards the tailstock), turn the handwheel clockwise and vice versa to\nmove the carriage to the left (towards the spindle), rotate the handwheel anticlockwise.\n(M) Handwheel for transversal displacement of the tool holder slide: The handwheel\nallows the transversal displacement, forward and backward, of the tool holder slide. To move\nthe slide forward (towards the workpiece), turn the handwheel clockwise and vice versa to\nmove the slide backward (towards the operator), rotate the handwheel anticlockwise.\n(N) Handwheel for longitudinal displacement of the tool holder slide: The handwheel\nallows the quick longitudinal displacement, to the right and left, of the tool holder slide. To\nmove the slide to the left (towards the spindle), turn the handwheel clockwise and vice versa\nto move the slide to the right (towards the tailstock), rotate the handwheel anticlockwise.",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252597",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "992f8f53",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 92,
+    "total_chunks": 149,
+    "text": "(P) Tool locking lever: The lever allows locking of the cutting to ol, to the tool holder base\n(turret).P\nN\nLM\nKJ\nI\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252649",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "d411e73e",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 93,
+    "total_chunks": 149,
+    "text": "33of84(Q) Lever for activating and selecting the direction\nof rotation of the electric motor: The lever selects\nactivation and the direction of rotation of the electric motor\nand the other rotating parts (spindle). Move the lever down\nto rotate the spindle clockwise, move the lever up to turn\nthe spindle anti -clockwise. The central location \"0\", puts the\nspindle in neutral.\nFigure 23-Close -up of the\nlever.\n9.2.5 Lever and handwheel of the tailstock\nOnthe tailstock there are manual controls (levers, handwheels and screws) which allow fine\nadjustments and feed adjustments (see Figure 24).\nFigure 24\u2013Lever and handwheel of the tailstock.\n(R) Quill locking lever: The lever allows the tailstock quill to be locked (located on the\nside not visible in Figure 24)\n(S) Handwheel for longitudinal movement of the quill: The handwheel allows the\nquick longitudinal displacement, to the right and left, of the tailstock quill. To move the quill\nto the left (towards the spindle), turn the handwheel clockwise and vice versa to move the\nquill to the right, rotate the handwheel anticlockwise.\n(T) Tailstock transverse adjusting screw: The s crew allows for adjustments to the\ntransverse centring of the tailstock. To move the tailstock forward (away from the operator),\nturn the screw clockwise and vice versa to move the tailstock backward (towards the\noperator), rotate the screw anticlockwise.TR\nS\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252664",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "22f9a16b",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 94,
+    "total_chunks": 149,
+    "text": "34of849.3Mechanical brake pedal of the spindle\nThe machine is equipped with a mechanical brake pedal that slows or stops the rotation of\nthe spindle as required (see Figure 25).\nPressing the pedal with your foot, the spin dle is immediately braked, while releasing the\npedal stops the braking action.\nFigure 25\u2013Pedal Details.\n9.4Digital display\nThe Gear head lathe 400V3A -T070 is equipped with a digital display that can monitor the\ndimensions X, Y and Z with a precision of 0.001.\nFurthermore it is possible to store different machining depths depending on the X coordinate\nin which the tool is located.\nFigure 26-Close -up of the digital display.\nAt the front there are all the programming keys of the panel, while at the rear there are\n1) on / off switch (I/0);\n2) the three data cables, in order from top to bottom X Axis -Y Axis -Z Axis, from the\nsensors placed on the tool holder carri age;\n3) the power supply cable.\nAt the time of purchase, the display must be installed on the left side of the lathe, using the\nbracket supplied.\nThe power cord must be connected to a 230V / 50 Hz plug equipped with a grounding\nconductor.\n2\n13\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252709",
+      "entities": {
+        "equipments": [
+          "sensor"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "f7318af2",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 95,
+    "total_chunks": 149,
+    "text": "35of84\nData cable co nnections\nPay attention to the correct connection of the data cables.\nIf reversed they can cause erroneous readings by the digital display.\nThe display can be rotated and tilted to allow the data to be viewed at any time.\nRotation is achieved by simply moving it with one hand, and to adjust the angle, loosen the\nbolt located just below the power cord, tilt the panel and then retighten the bolt.\nFigure 27\u2013Panel adjustment\n9.4.1 Using the display\nWhen acti vating the panel, the management system performs a self -diagnostic routine.\nFigure 28\u2013Close -up of the display\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252744",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "b2ffac0a",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 96,
+    "total_chunks": 149,
+    "text": "36of841-Self-test\nThe display shows the following messages:\nModel Use with lathe*\nSDS25XLATHE\n35Y\n35Z\nAxis number Resolution\n* \"Lathe\" is specified because the panel can be programmed for other tool machines.\nAt the end of the self -diagnostic the display shows the following messages:\nIt could be \u201cI NC\u201d \u201cALE\u201d\n\u201cZER\u201d\n0.000XALE\n0.000Y\n0.000Z\n2\u2013Setting the system\nPressing the button during the self -diagnostic process, starts the setting mode, which\nbegins as soon as the firs t phase has finished.\n-Setting the X -axis resolution:\ncurrent resolution\n5XXreslN\nIn this way, the desired resolution is set for the X axis, using the numbers on the panel\naccording to the following scheme:\nButton0 1 2 5 7 8 9\nResolution (\u00b5m)10 1 2 5 0.1 0.2 0.5\n-After choosing the resolution press the button then to move to the next step.\n-To set the resolution of the Y axes and (Z if used), proceed as described above\nforthe X axis\uf0f2\uf020ENT.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252771",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "294e9c7b",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 97,
+    "total_chunks": 149,
+    "text": "37of84-After each setting, press the button and to move to the next step.\n-Setting the axis linear encoder measuring direction.\n1XXdir\n-Press the button of the axis which you wish to set (X, Y, Z)\n-Press the button for a positive count in the direction of movement from the\noutside towards the rotation axis.\n-Press the button for a negative count in the direction of mov ement from the\noutside towards the rotation axis.\n-Press the buttons and to move to the next step.\n-Perform the above steps to set the measuring direction of the linear encoder\nof the Y axes (Z if us ed)\n-After each setting, press the button and to move to the next step.\n-Setting the list of tools.\n0Xtool\n-Select the desired machine by pressing the corresponding button.\nButton Machine",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252805",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "40f94440",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 98,
+    "total_chunks": 149,
+    "text": "0 Multifunction milling machine",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252824",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "1f2369fe",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 99,
+    "total_chunks": 149,
+    "text": "3 Lathe\n-Press the buttons and to move to the next step.\n-As you are using the lathe, select number 3 , then the instrument will display\nonly the X and Y dimensions necessary for turning operations\uf0f2\uf020ENT\n\uf0f2\uf020ENT\uf0f2\uf020ENT10\uf0f2\uf020ENT\nfervi.com",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252833",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "7e2af3ba",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 100,
+    "total_chunks": 149,
+    "text": "38of84-Integration of the Y -axis with the Z axis\n-Press the button or the button to change the setting\nYNONE\nYINGREAT\n-After the selection press the and buttons to move to the next step.\nBy integrating the Y and Z dimensions (movements on the same axis) only one\ndimen sion (Y -axis) will be displayed, which will vary depending on whether you are\noperating the handwheel for longitudinal movement of the carriage, or the\nhandwheel for longitudinal movement of the turret.\n-Press the button twice t o activate the auto -diagnostic function. Press to finish\nthe setting process.\nA)\nXtestoff\n3\u2013RESETTING THE DISPLAY\n-You can reset the display of the X, Y and Z axes at any time by pressing the\nbutton, or and then the button.\n321.456X\n\uf0ea\n0.000XCLS\uf0f2\uf020ENT1 0\nCLSX\uf0f2\uf020\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252849",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "6e51aaec",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 101,
+    "total_chunks": 149,
+    "text": "39of844-DEFAULT DATA\nThe default data allows continuous monitoring of the machining in\noperation.\nIf, for exam ple, it has a piece as shown in Figure 29/a) and you\nwant to get the piece in Figure 29/b) you can set all the heights in\norder to precisely control the actual machining.\nTo set the data, proceed as follows:\nFigure 29\u2013Example of\nmachining.\n-Move the tool to the height A in the Z direction (longitudinal).\n-Press the button\nto set height 5.\n. Y\n\uf0ea\n-5.000Y\n-Press the button then the button to choose the negative direction of the\nmachining (towards the spindle \uf0df).\nIf an incorrect value is entered, press\nagain to enter the correct va lue.\n-Start machining until the display shows -13.\n-13.000Y\u00b1 5\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252878",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "5eceba6d",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 102,
+    "total_chunks": 149,
+    "text": "40of845\u2013Displaying the absolute / relative coordinates\nPress the buttons to move from the relative coordinates \"INC\" to the absol ute\ncoordinates \"ALE\" and vice versa, on the display of the Y coordinate. Set the D plane as the\nreference plane, in this way in \"ALE\" mode (absolute coordinates) on the Y axis 0 will be\ndisplayed.\n0. Y\nFigure 30\u2013Viewing absolute / relative.\nWith reference to Figure 30, proceed as follows, to switch from absolute coordinates to\nrelative coordinates.\n-Bring the cutting tool to the D plane.\n0.000XALE\n0.000Y\n-Move the cutting tool to the C plane.\n0.000XALE\n-100.000Y\n-Move the cutting tool to the B plane.\n0.000XALE\n-150.000Y\uf0f1\uf0f2\uf020\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252905",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "b4866e41",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 103,
+    "total_chunks": 149,
+    "text": "41of84-Press the button (to switch to the relative coordinates) then reset the display of Y,\nby pressing the\nand buttons.\n0.000XINC\n0.000Y\n-Move the cutting tool to the A plane.\n0.000XINC\n-10.000Y\n-Move the cutting tool to the E plane.\n0.000XINC\n-30.000Y\n-Reset the Y display by pressing the\nand buttons.\n0.000XINC\n0.000Y\n-Move the cutting tool to the A plane.\n0.000XINC\n20.000Y\n-Press the button (to switch to the absolute coordinates)\uf0f2\uf020CLSCLS\uf0f1\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252930",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "f0e2c5d9",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 104,
+    "total_chunks": 149,
+    "text": "42of840.000XALE\n-130.000Y\n-Move the cut ting tool to the D plane.\n0.000XALE\n0.000Y\n6\u2013Viewing stored coordinates\nPress the buttons, as well as switching between the absolute and relative\ncoordinate s, it is also p ossible to view 200 previously stored coordinate values .\nale inc zer1\n\uf045 \uf045\nzer200 \u2022\u2022\u2022\u2022 zer2\nWith the button it is possible to directly enter the display menu of the 200 coordinates.\npress the buttons from 1 to 9 twice (e.g. 5 and 0)\nale\uf0e0zerno\uf0e0zer50\nIn this way the relative coordinate number 50 is displayed.\uf0f1 \uf0f1\uf0f2\uf020 \uf0f2\uf020\uf0f1 \uf0f2\uf020 \uf0f1 \uf0f2\uf020\uf0f2\uf020 \uf0f2\uf020\uf0f1 \uf0f1\nENT\uf0f2\uf020ZERO\uf0f1\uf0f2\uf020\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252950",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "a4e9ef77",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 105,
+    "total_chunks": 149,
+    "text": "43of847\u2013Radius / Diameter display\nFigure 31\u2013Radius / Diameter display\nThe reference for axis X is the axis of spindle rotation (dashed line in Figure 31).\n-Move the cutting tool to point A.\n5.000X\n-Press the and\nbuttons to switch from viewing the radius to the diameter.\n10.000X\n-Move the cutting tool to point B.\n20.000X\n-Press the and\nbuttons to switch from viewing the diameter to the radius.\n10.000X\nIf the word \"DIR\" appears this means that on the X -axis the diameter of the workpiece is\nbeing displayed. The Y -axes only have one display mode.XX\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252973",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "c9396471",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 106,
+    "total_chunks": 149,
+    "text": "44of848\u2013Displaying Metric / Imperial coordinates\nThe digital panel can also s how the coordinates of the X axis in Imperial units (inches), this\ndisplay is not available for the Y axis\nWith reference to Figure 32, proceed as follows, to switch from Metric coordinates to Imperial\ncoordinates.\nFigure 32\u2013Displaying Metric / Imperial coordinates.\n-Move the tool to point A, the coordinates in Metric units are 25.4 mm.\n25.400X\n-Pressing the button, switches the display to Imperial units 1\u201d.\n1.00000X\n-Move the tool to point B, the coordinates in Imperial units are 2\u201d.\n2.00000X\n-Pressing the button, switches the display to Metric units 50.8 mm.\n50.800XM/M/\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.252996",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "6513b868",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 107,
+    "total_chunks": 149,
+    "text": "45of849\u2013Linear error compensation\nThe linear error compensation function is used for the correction of errors in the transmission\nsystem of the lead screw.\nThe correction factor is expressed as:\nwhere\nL\uf0e0is the useful length of th e Z axis in mm;\nL\u2019\uf0e0is the value displayed on the panel in mm;\nS\uf0e0is the correction factor in mm/m.\nThe correction factor can be positive if the displayed value is less than the actual length,\nnegative if the value displayed is higher.\nThe compensation r ange is \u00b1 1.500 mm/m.\nEx. If the useful length of the Y axes is 1000 mm and the panel at the end of travel of the\ncarriage, reads 999.98 mm then S=(1000 -999.98)/(1000/1000)=0.02 mm/m.\nSo to enter the compensation value it is necessary to:\n-Select the Y ax is by pressing the button\n, pressing the button displays the\ncorrection factor S previously set.\ns0.050Y\n-Enter the calculated value 0.02 by pressing in sequence the keys 0 . 0 2\ns0.020Y\n-Press the button to confirm the data.\nThe linear error compensation can be performed by either displaying the absolute\ncoordinates, or displaying the relative coordinates.\n10\u2013Disconnection of the power supply\nIf the power supply is discon nected or it is necessary to turn off the machine during\nmachining, the panel is able to automatically store the coordinates where the tool is located,\nthe compensation factor currently set and the display mode.\nWhen the machine is turned on again, the dis play will show the exact data before the\ninterruption, immediately after the initial self -diagnosis phase. If the tool and/or workpiece\nhave not been moved, it is possible to resume machining without problems.ENTM/\uf028\uf029\n\uf028\uf029m mmLLLS /1000/'\uf02d\uf03d\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253026",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "bb60ced2",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 108,
+    "total_chunks": 149,
+    "text": "46of8410OPERATION\nIntended use and materials\nThe Ge ar head lathe (Art. T999/230V and T999/400V) has been designed and constructed for\nthe machining of metallic materials by means of cold chip removal. Any use and lack of\nrespect for the technical parameters established by the manufacturer may be dangerous to\noperators; therefore, the manufacturer cannot assume any liability for resulting damages.\nRisk of Abrasion and Accident\n\uf0b7Before using the machine, make sure that it is correctly attached to prevent unwanted\nmovement or loss of stability.\n\uf0b7Wear appro priate personal protective equipment (PPE) such as gloves, goggles, overalls or\naprons and safety shoes.\nEnvironment of Use\n\uf0b7The lathe can operate in enclosed working environments (production departments,\nwarehouses, etc.), such as those that are prote cted from the weather and where there is\nno danger of fire or explosion.\n\uf0b7The operating temperature is within the range of -10 / +50\u00b0C.\n\uf0b7The working environment must be sufficiently well lit to ensure maximum operational\nsafety (at least 200 lux).\nWorki ng close to the spindle\nBefore starting work in the vicinity of the spindle, ALWAYS check that the machine is stopped.\nIt is recommended to not extend the continued use of the machine for more than 10 minutes\nto avoid overheating the machine (which coul d damage the motor) and the equipment.\n1.Lift the movable protective screen of the spindle.\n2.Place the workpiece on the spindle and secure it by tightening the jaws, with the\nappropriate key.\nInsert the key into one of the holes with a square cross -section o n the spindle, and to close\nthe jaws, turn it clockwise (see Figure 33).\nFigure 33\u2013Spindle key.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253079",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "48751f15",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 109,
+    "total_chunks": 149,
+    "text": "47of84\nLocking the piece\nLock the workpiece onto the self -centring spindle in a stable and secure manner, by tightening\nthe jaws with the necessary force.\n3.If necessary, secure the opposite end of the workpiece using the tailstock. To do this,\nadjust the position of the tailstock and quill, using the appropriate fastening lever and\nhand wheel (see Figure 24).\n4.If necessary, check the eccentricity of the workpiece, using a comparator and by rotating\nthe piece slowly (by hand) after it is fixed between the tips (see Figure34).\nFigure34\u2013Checking the eccentricity of the workpiece.\n5.Insert the tool on the turret of the tool holder carriage, and secure it with the relative\nlocking lever (ref. l in Figure 22).\n6.Adjust t he position of the carriage and tool holder slide, using the relative levers and\nhandwheels (see Figure 22).\n7.Lower the movable protective screen of the spindle.\nMachine operation\nBefore starting the machine, ALW AYS close the movable protective screen of the spindle. This\nis to provide adequate protection for the operator, in relation to mechanical hazards in the\n\"danger zone\" of the spindle.\n8.Set the correct spindle rotation speed, using the knobs on the control panel of the\nmachine (see Figure 18).\n9.Turn the main switch to position \"I\" (see Figure 16) verifying that the voltage warning\nlight has turned on (white, see ref. c in Figure 17).\n10.Move the start lever of the electric motor to start the rotation of the spindle, at the same\ntime choosing the direction of rotation.\n11.Perform the machining of the workpiece, by moving the tool towards the workpiece, in\nrotation, using the handwheels that regulate the fine movement of the tool holder slides\n(ref. m / n in Figure 22). If necessary, move the nozzle of the cooling liquid closer to the\narea affected by t he machining and operate the pump.\n12.When finished, move the tool away from the work piece, then stop the rotation of the\nspindle with the start lever.\nfervi.com",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253133",
+      "entities": {
+        "equipments": [
+          "pump",
+          "motor"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "3cacd029",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 110,
+    "total_chunks": 149,
+    "text": "48of84\nRisk of abrasion and/or cutting\n\uf0b7After putting the start lever into the neutral position or pressing the emergency stop\nswitches, the spindle will continue to rotate by inertia. For an immediate stop, you must\npush the brake pedal beneath the bed of the machine.\n\uf0b7Do not allow body parts near the spindle while in motion!\n13.After stopping the rotation of the sp indle, lift the mobile protective screen and remove the\nwork piece from the spindle by releasing the jaws with the appropriate key. To do this,\ninsert the key into one of the hollow, square sections on the spindle and turn it\nanticlockwise.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253187",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "9e88173e",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 111,
+    "total_chunks": 149,
+    "text": "49of8410.1Automatic F eed Tool Carriage\nLongitudinal feed\nThe automatic longitudinal feed of the carriage is derived from spindle, which transmits its\nmotion to the grooved bar (see Figure 35).\nThe longitudinal feed is due to the lowe r slide that drags the carriage in the direction of the\naxis of the Lathe. A worm screw B, connected to the grooved bar A, runs along the latter\ntogether with the carriage. The worm screw sets in rotation a gear wheel D and the other\ngears present, includi ng the pinion M which meshes with the rack N, which is moved by\ndragging the carriage during the rotation of the pinion.\nFigure 35\u2013Longitudinal feed.\nTransverse feed\nThe transverse feed is due to the transverse slide which dra gs the upper slide and the tool in\nthe perpendicular direction to the axis of the Lathe (see Figure 36). And by moving the lever\nE to position 3, the idler wheel O meshes with the pinion G integral with the screw H. The\nscrew is c oupled to the casing I integral with the transverse slide. The rotation of the screw\ntherefore moves the transverse slide.\nFigure 36\u2013Transverse feed.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253213",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "f2c9a1f6",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 112,
+    "total_chunks": 149,
+    "text": "50of84Longitudinal feed for threading:\nThe automatic longitudinal feed originates in the spindle, which transmits motion to the lead\nscrew connected to the spindle itself by means of gears that allow for the variation in the\nrotational speed (see Figure 37).\nThe lead screw, with its rotation motion, exerts a thrust on the fixed casing of the carriage,\ndetermining the automatic feed, in a longitudinal direction.\nFigure 37\u2013Longitudinal feed with the lead screw.\nThe change of feed speed of the Gear head lathe (Art. LC340/1000) is mixe d: mechanical\nwith knobs for speed selection (see section 9.2.2) and with replaceable gears.\nTo carry out the replacement of the gears, proceed as described below:\nRisk of Crushing\nBefore replacing the gears, turn off the machine, put the main switch i n the \"0\" position .\n1.Open the guard for the feed speed change gearbox, placed on\nthe left part of the machine;\n2.Unscrew the fastening nuts and disassemble the gears (see\nFigure 38);\n3.Position the relative gears for the feed desire d, check they fit\nperfectly and tighten the fastening nuts;\n4.Close the guard of the gearbox.\nFigure 38\u2013Gears.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253273",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "replacement"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "232423a2",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 113,
+    "total_chunks": 149,
+    "text": "51of8411MAINTENANCE\nElectric shock\nBefore maintenance or checks, turn off the machine and ALWAYS unplug the power cord. This\nis so that there is no risk of electric shock.\nRegularly clean and take care of the machine to guarantee proper efficiency and a long\nworking life.\nUse a compressor to blow off shavings, chips, filings and dust that has accumulated on the\nfloor of the machine and on the workbench at the end of each machining operation.\nWorking with compressed air",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253309",
+      "entities": {
+        "equipments": [
+          "compressor"
+        ],
+        "actions": [
+          "maintenance"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "ca1055c1",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 114,
+    "total_chunks": 149,
+    "text": "ALWAYS wear the protective goggles when using compressed air.\nCheck the status of the Lathe and the EC and warning plate; if these are no longer leg ible\nrequest replacements.\nDo not use the lathe if there are any defects!!\nDaily checks\n1Check that all moving parts are well lubricated .",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253323",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "replacement"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "412498e1",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 115,
+    "total_chunks": 149,
+    "text": "2 Clean the surface of the spindle, the turret and the body of the machine.\n3Check that there are no objects / tools near the moving parts.\n4Check the operation of the manually operated handwheels .\n5Check the wear of the guide rails.\nfervi.com",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253334",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "d741438d",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 116,
+    "total_chunks": 149,
+    "text": "52of8411.1Lubrication\nIt is good practice to clean the machine, especially the guides, removing all chips produced\nby the work.\nApply, w ith a rag or a brush, a thin layer of oil on the guides and on the spindle to prevent\ncorrosion.\nThe next day, remember to remove the oil before starting the machine.\nThe perfect efficiency of the lathe is guaranteed over time with the perfect lubrication of its\nmoving parts.\nLubrication\nDo not use the machine if oil leaks are detected or if the levels are not perfect.\nLubrication\n\uf0b7Only use the lubricants listed in the table below.\n\uf0b7DO NOT use any types other than those indicated, DO NOT use too muc h and DO NOT fall\nbelow the level indicated by the indicators.\nThe main gears of the lathe are splash lubricated, the lubricating oil level is signalled by the\nwindow (See figure 32).\nThe other parts that are to be manually lubricated are specified in th e following table,\ntogether with the type of lubricant and frequency. The lead screw should be lubricated with\nlithium grease via the grease nipple.\nThe lubricating oil should be completely replaced after the first week of using the new lathe.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253348",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "3d142069",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 117,
+    "total_chunks": 149,
+    "text": "53of84For proper lubrication of the Lathe, proceed as follows (see Figure 39):\nFigure 39\u2013Lubrication points on the machine.\nRef\n.Parts of the machineLubricatio\nn pointType of\nlubricantFrequencyReplacemen\nt frequency\n1Feed shaft\nand lead screw bearings:2 Oil Daily /\n2Transverse feed casing 1 Oil Daily /\n3Tailstock sleeve and\nhand wheel2 Oil Daily /\n4Transverse slide 2 Oil Daily /\n5Longitudinal slide 3 Oil Daily /\n6Longitudinal feed\nhandwheel1 Oil Daily /\n7Transverse feed\nhandwheel1 Oil Daily /\n8Toolcarriage 1 Oil 20Level\nindicator6 months\n9Spindle gears 1 Oil 20Level\nindicator6 months\nOil level windowsTop up the level\nOONNCCEEAADDAAYY\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253385",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "e407a792",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 118,
+    "total_chunks": 149,
+    "text": "54of84Ref\n.Parts of the machineLubricatio\nn pointType of\nlubricantFrequencyReplacemen\nt frequency\n10Carriage rails 4 Oil 20 Daily /\n11Gears for threading 1 Oil 20Level\nindicator6 months\nTypes of oil recommended\nMobil Vectra No. 2\nShell \u2013Tonna \u2013T68/TX68\nChevron \u2013Vistac \u201368X\nEsso\u2013Febis \u2013K68\nLubrication\nDO NOT disperse used oil into the environment. Notify one of the authorized consortiums for\ncollection and removal of used oil.\n11.2Periodic checks\nEvery 6 months of the machine\u2019s life, perform a thorough inspection of operation and wear\nand precisely level the table.\nThe gear unit requires no maintenance other than oil changes.\n11.3Adjusting the Mach ine\n11.3.1 Adjusting the tension of the motor belts\nMake sure the motor belt tension is at an appropriate level. In this regard, make a simple\ncheck by pressing down firmly on the individual belts (approximately in the middle), which\nshould move by a maximum of 5 mm.\nIf the belts are loose or too tight, loosen the belt adjustment system bolts until the correct\ntension is achieved.\nFigure 40\u2013Drive belts.\nProper belt tension reduces wear and increases the production of the machine.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253413",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": [
+          "maintenance",
+          "inspection"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "e23029ca",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 119,
+    "total_chunks": 149,
+    "text": "55of8411.3.2 Tailstock alignment\nWhen the tailstock is off -axis, it is necessary to correct its position by turning the adjustment\nscrew until aligned with the reference marks on the side plate.\nFigure 41\u2013Adjustment screw.\n11.3.3 Spindle alignment\nWhen the spindle rotates off -axis or if particularly heavy machining operations must be\ncarried out, make an adjustment to the bearings.\nThe bearing that supports the spindle is tapered, to carry out the adjustment, proceed as\nfollows (see Figure42):\n1.Loosen the bearing lock nut;\n2.Tighten the bearing adjustment nut;\n3.Test the spindle by rotating it, and \u2014by means of a comparator (See Point 4 of Chapter\n10)\u2014make sure it rotates perfectly.\n4.Re-tighten the bearing locking nut.\nFigure42\u2013Spindle alignment.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253448",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "35de02de",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 120,
+    "total_chunks": 149,
+    "text": "56of8411.3.4 Adjusting the slack of the gears\nIt is very important that there is no abnormal slack between\nthe gears, to avoid breakage or rapid wear of the teeth of the\ngears themselves.\nTo reduce and / or adjust the slack , move the gear II and\nfirmly tighten nuts III and IV (see Figure 43)\nFigure 43\u2013Gear slackII\nIV\nIII\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253476",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "a6acdaff",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 121,
+    "total_chunks": 149,
+    "text": "57of8412REPLACEMENT PARTS\nTABLE A\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253491",
+      "entities": {
+        "equipments": [],
+        "actions": [
+          "replacement"
+        ]
+      }
+    }
+  },
+  {
+    "chunk_id": "5fd4ced4",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 122,
+    "total_chunks": 149,
+    "text": "58of84\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253499",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "5295f51e",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 123,
+    "total_chunks": 149,
+    "text": "59of84\nPart No. description Part No. description\nT999/A001 Fusion T999/A053 Plastic terminal\nT999/A002 Hand wheel T999/A054 Cap\nT999/A003 Box T999/A055 Cap\nT999/A004 Cover T999/A056 Handle\nT999/A005 Comparator body T999/A057 Spring\nT999/A006 Washer T999/A058 Spring\nT999/A007 Gib T999/A059 Key\nT999/A008 Selector body T999/A060 Screw\nT999/A009 Selection lever T999/A062 Screw\nT999/A010 Micrometer T999/A063 Screw\nT999/A011 Cover T999/A064 Screw\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253507",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "cdc6d965",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 124,
+    "total_chunks": 149,
+    "text": "60of84Part No. description Part No. description\nT999/A012 Shaft T999/A065 Screw\nT999/A013 Gear 60 Teeth T999/A066 Screw\nT999/A014 Shaft 18 Teeth T999/A067 Screw\nT999/A015 Gear T999/A068 Screw\nT999/A016 Shaft T999/A069 Screw\nT999/A017 Ring T999/A070 Screw\nT999/A018 Gear with 30 Teeth T999/A071 Screw\nT999/A019 Gear with 46 Teeth T999/A072 Screw\nT999/A022 Gear with 63 Teeth T999/A073 Screw\nT999/A02 3Ring T999/A074 Screw\nT999/A024 Selector T999/A075 Screw\nT999/A025 Lever T999/A076 Screw\nT999/A026 Gear with 40 Teeth T999/A077 Screw\nT999/A028 Support T999/A078 Plug\nT999/A029 Half nut T999/A079 Plug\nT999/A030 Worm T999/A060 Plug\nT999/A031 Gear wi th 22 Teeth T999/A081 Plug\nT999/A032 Shaft T999/A082 Plug\nT999/A033 Gear 16 Teeth T999/A083 Plug\nT999/A034 Shaft T999/A084 Oiler\nT999/A035 Comparator shaft T999/A085 Washer\nT999/A038 Gear T999/A086 Locking ring\nT999/A039 Ring T999/A087 Nut\nT999/A040 Bar T999/A088 Nut\nT999/A041 Screw T999/A089 Nut\nT999/A041 Washer T999/A090 Rivet\nT999/A042 Washer T999/A091 Rivet\nT999/A043 Washer T999/A092 O-ring\nT999/A044 Washer T999/A095 Key\nT999/A050 Cap T999/A096 Steel ball\nT999/A051 Cap T999/A097 Washer\nT999/A052 Cap T999/A098 Screw\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253524",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "e6b9ebf0",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 125,
+    "total_chunks": 149,
+    "text": "61of84TABLE B\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253546",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "c7af4fca",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 126,
+    "total_chunks": 149,
+    "text": "62of84\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253553",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "34453c3e",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 127,
+    "total_chunks": 149,
+    "text": "63of84\nPart No. Description Part No. Description\nT999/B001 Fusion T999/B049 Bearing\nT999/B002 Cover T999/B050 Brass bushing\nT999/B003 Cover T999/B051 Stop\nT999/B004 Oil cap T999/B052 Gear\nT999/B00 5 O-ring T999/B053 Washer\nT999/B006 Sliding block T999/B054 Bearing\nT999/B007 Bolt T999/B055 Washer\nT999/B008 Conical plug T999/B056 Stop\nT999/B009 Bolt T999/B057 Stop\nT999/B010 Selector T999/B058 Gear\nT999/B011 Pin T999/B059 Gear\nT999/ B012 Support T999/B060 Key\nT999/B013 Selector T999/B061 Gear\nT999/B014 Pin T999/B062 Bearing\nT999/B015 Support T999/B063 Gasket\nT999/B016 Shaft T999/B064 Bearing cover\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253561",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "f528dbdb",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 128,
+    "total_chunks": 149,
+    "text": "64of84Part No. Description Part No. Description\nT999/B017 Key T999/B065 Shaft\nT999/B018 O-ring T999/B066 Pin\nT999/B0 19 Locking screw T999/B067 Bearing cover\nT999/B020 Selector T999/B068 Gasket\nT999/B021 Support T999/B069 Gear\nT999/B022 Selector T999/B070 Gear\nT999/B023 Support T999/B071 Brass bushing\nT999/B024 Support T999/B072 Gear\nT999/B025 Allen key T999/B073 Brass bushing\nT999/B026 Gear T999/B074 Shaft\nT999/B027 O-ring T999/B075 Key\nT999/B028 Gasket T999/B076 Brass bushing\nT999/B029 Cover T999/B077 Gear\nT999/B030 Allen key T999/B078 Brass bushing\nT999/B031 Conical plug T999/B079 Gear\nT999/B032 Plug T999/B060 Gear\nT999/B033 Support T999/B081 Gear\nT999/B034 Small sphere T999/B082 Brass bushing\nT999/B035 Spring T999/B083 Gear\nT999/B036 Locking screw T999/B084 Key\nT999/B037 Label T999/B085 Shaft\nT999/B038 Phillips head s crew T999/B086 Key\nT999/B039 Locking screw T999/B087 Bearing cover\nT999/B040 Oil level T999/B088 Gasket\nT999/B041 Label T999/B089 Gear\nT999/B042 Lock T999/B090 Shaft\nT999/B043 Bearing protection T999/B091 Brass bushing\nT999/B044 Gasket T999/B092 Gear\nT999/B045 Washer T999/B093 Gasket\nT999/B046 Key T999/B094 Bearing cover\nT999/B047 Shaft 7 T999/B095 Ring\nT999/B048 Key T999/B096 Shaft\nT999/B097 Pin T999/B105 Bolt\nT999/B098 Screw T999/B106 Washer\nT999/B099 Washer T999/B107 Screw\nT999/B100 Bearing T999/B108 Bolt\nT999/B101 Stop T999/B109 Washer\nT999/B102 Gear T999/B110 Gear\nT999/B103 Bearing T999/B111 Washer\nT999/B104 Gear cover T999/B112 Allen key\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253579",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "78865693",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 129,
+    "total_chunks": 149,
+    "text": "65of84TABLE C\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253603",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "de91a083",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 130,
+    "total_chunks": 149,
+    "text": "66of84\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253609",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "6a2838ad",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 131,
+    "total_chunks": 149,
+    "text": "67of84\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253615",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "c463f846",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 132,
+    "total_chunks": 149,
+    "text": "68of84Part No. Description Part No. Descr iption\nT999/C001 Collar T999/C046 Small pin\nT999/C002 Collar T999/C047 Cam\nT999/C003 Back cover T999/C048 Shaft\nT999/C004 Back cover T999/C050 Gear 51z\nT999/C005 Pulley T999/C051 Spacer\nT999/C006 Pin T999/C052 Shaft\nT999/C007 Head T999/C053 Gear 30 z\nT999/C008 Front cover T999/C054 Shaft\nT999/C009 Lever T999/C055 Shaft\nT999/C010 Shaft support T999/C056 Washer\nT999/C011 Cover T999/C057 Toothed shaft 17z\nT999/C012 Body T999/C059 Screw\nT999/C013 Shaft T999/C064 Switch\nT999/C014 Body T999/C065 Switch\nT999/C015 Pad T999/C066 Switch\nT999/C016 Hub T999/C067 Spacer\nT999/C017 Gear 37z T999/C068 Fork\nT999/C018 Washer T999/C069 Fork\nT999/C019 Washer T999/C073 Gasket\nT999/C020 Washer T999/C074 Gasket\nT999/C021 Gear 40z T999/C075 Gasket\nT999/C022 Washer T999/C076 Gasket\nT999/C023 Gear 37z T999/C077 Gasket\nT999/C024 Locking nut T999/C078 Gasket\nT999/C025 Gear 43z T999/C079 Gasket\nT999/C026 Gear 51z T999/C080 Gasket\nT999/C028 Shaft 16z T999/C081 Oil level window\nT999/C029 Washer T999/C084 Allen k ey M4 x 12\nT999/C030 Washer T999/C085 Allen key M4 x 12\nT999/C031 Shaft T999/C086 Allen key M4 x 12\nT999/C032 Washer T999/C087 Allen key M4 x 12\nT999/C033 Gear 21z T999/C088 Allen key M4 x 12\nT999/C034 Gear 29z T999/C089 Allen key M4 x 12\nT999/C035 Gear 46z T999/C093 Screw M6 x 12\nT999/C036 Gear 38z T999/C095 Screw M8 x 8\nT999/C037 Spacer T999/C096 Screw M8 x 10\nT999/C038 Gear 26z T999/C097 Screw M8 x 12\nT999/C039 Gear 34z T999/C098 Screw M8 x 16\nT999/C040 Gear 53z T999/C099 Screw M8 x 40\nT999/C 041 Lid T999/C100 Screw M4 x 8\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253626",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "dbb269ab",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 133,
+    "total_chunks": 149,
+    "text": "69of84Part No. Description Part No. Descr iption\nT999/C042 Gear 74z T999/C102 Nut M12\nT999/C043 Gear 37z T999/C103 Key 5 x 15\nT999/C044 Shaft T999/C104 Key 5 x 18\nT999/C045 Spring T999/C105 Key5 x 50\nT999/C106 Key 6 x 40 T999/C131 O_Ring\nT999/C107 Key 6 x 55 T999/C13 2 O_Ring\nT999/C108 Key 6 x 120 T999/C133 O_Ring\nT999/C109 Key 6 x 120 T999/C134 O_Ring\nT999/C110 Key 6 x 18 T999/C135 O_Ring\nT999/C111 Key 5 x 20 T999/C136 O_Ring\nT999/C113 Plug 3 x 10 T999/C137 O_Ring\nT999/C114 Plug 4 x 18 T999/C138 O_Ring\nT999/C11 6Plug 5 x 32 T999/C139 Spring\nT999/C117 Locking ring 35 T999/C140 Spring\nT999/C119 Locking ring 20 T999/C141 Spring\nT999/C120 Locking ring 50 T999/C142 Hub\nT999/C121 Locking ring 72 T999/C143 Brass tube\nT999/C122 Locking ring 42 T999/C144 Knob\nT999/ C123 Bearing T999/C145 Belt\nT999/C124 Bearing T999/C148 Lid\nT999/C125 Bearing T999/C149 Plug\nT999/C126 Bearing T999/C150 Screw M6 x 50\nT999/C127 Bearing T999/C151 Allen key\nT999/C128 Bearing T999/C152 Handle plate\nT999/C129 Sphere T999/C153 Plug\nT999/C130 Sphere T999/C154 Shaft\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253652",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "910d5d18",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 134,
+    "total_chunks": 149,
+    "text": "70of84TABLE D\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253669",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "85e7a6b9",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 135,
+    "total_chunks": 149,
+    "text": "71of84\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253675",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "a03a1cfb",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 136,
+    "total_chunks": 149,
+    "text": "72of84Part No. Description Part No. Description\nT999/D001 Motor support T999/D069 Plug\nT999/D002 Pulley T999/D070 Bolt\nT999/D003 Table T999/D071 Bolt\nT999/D004 Cavity T999/D072 Bolt\nT999/D005 Protect ive device T999/D073 Lid\nT999/D006 Support T999/D074 Electrical controls box\nT999/D007 Support T999/D075 Splashguard\nT999/D008 Spacer T999/D076 Bolt\nT999/A009 Collar T999/D077 Bolt\nT999/D010 Rack T999/D078 Nut\nT999/D011 Rack T999/D079 Bath\nT999/D013 Rack T999/D060 Screw\nT999/D016 Main screw T999/D081 Lid\nT999/D019 Feed rod T999/D082 Left table support\nT999/D022 Shaft T999/D083 Right table support\nT999/D023 Spacer T999/D084 Lid\nT999/D024 Shaft T999/D085 Screw\nT999/D025 Rod T999/D086 Screw\nT999/D026 Ring T999/D087 Lid\nT999/D027 Spacer T999/D088 Screw\nT999/D028 Key T999/D089 Support\nT999/D029 Oil cup T999/D090 Screw\nT999/D039 Knob T999/D091 Tin plate\nT999/D040 Plug T999/D092 Support\nT999/D041 Plug T999/D093 Shaft\nT999/D041 Plug T999/D094 Elastic pin\nT999/D042 Screw T999/D095 Rod\nT999/D043 Protective device T999/D096 Lid\nT999/D044 Locking nut T999/D097 Nut\nT999/D045 Screw T999/D098 Elastic pin\nT999/D046 Screw T999/D099 Pedal arm\nT999/D047 Screw T999/D100 Connection\nT999/D049 Allen key T999/D101 Spring\nT999/D051 Allen key T999/D102 Lock\nT999/D052 Allen key T999/D103 Screw\nT999/D053 Nut T999/D104 Plug\nT999/D054 Grub screw T999/D105 Tube\nT999/D054A Bolt T999/D106 Elastic pin\nT999/D058 Plug T999/D107 Tube\nT999/D059 Plug T999/D108 Pedal\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253685",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "ba481efc",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 137,
+    "total_chunks": 149,
+    "text": "73of84Part No. Description Part No. Description\nT999/D061 Plug T999/D109 Screw\nT999/D061A Plug T999/D110 Nut\nT999/D067 Spring T999/D111 Rod support\nT999/D068 Sphere\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253707",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "90b6eaa9",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 138,
+    "total_chunks": 149,
+    "text": "74of84TABLE E\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253715",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "9b9aa803",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 139,
+    "total_chunks": 149,
+    "text": "75of84\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253720",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "09a320f5",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 140,
+    "total_chunks": 149,
+    "text": "76of84Part No. Description Part No. Description\nT999/E001 Saddle T999/E042 Bearing\nT999/E002 Slide T999/E043 Bearing\nT999/E003 Rotating slide T999/E044 Screw\nT999/E004 Upper slide T999/E045 Screw\nT999/E005 Collar T999/E046 Screw\nT999/E006 Gib T999/E047 Screw\nT999/E007 Hub T999/E048 Allen key\nT999/E008 Strip T999/E049 Allen key\nT999/E009 Gib T999/E050 Allen key\nT999/E010 Stop T999/E052 Allen key\nT999/E011 Stop T999/E053 Adjustment grub screw\nT999/E012 Hammer screw T999/E054 Adjustment grub screw\nT999/E013 Lever base T999/E055 Adjustment grub screw\nT999/E014 Lever T999/E056 Adjustment grub screw\nT999/E015 Stop T999/E057 Adjustment grub screw\nT999/E016 Screw T999/E058 Adjustment grub screw\nT999/E017 Micrometer T999/E059 Nut\nT999/E018 Switch T999/E060 Nut\nT999/E019 Switch T999/E061 Washer\nT999/E020 Collar T999/E062 Screw\nT999/E022 Washer T999/E063 Spring\nT999/E023 Nut T999/E064 Oiler\nT999/E024 Micrometer T999/E066 Plug\nT999/E025 Plate T999/E067 Shaft gear\nT999/E026 Plate T999/E069 Bearing\nT999/E027 Plate T999/E070 Allen key\nT999/E028 Screw T999/E071 Lever\nT999/E029 Washer T999/E072 Handle\nT999/E030 Turret base T999/E073 Spacer\nT999/E031 Adjustment screw T999/E074 Key\nT999/E032 Adjustment screw T999/E075 Screw\nT999/E033 Switch T999/E076 Key\nT999/E034 Gib T999/E077 Thrusting beari ng\nT999/E035 T bolts T999/E078 Bearing housing\nT999/E036 Threaded lock T999/E079 Bearing dust cover\nT999/E037 Nut T999/E080 Washer\nT999/E038 Switch cover T999/E081 Washer\nT999/E039 Small brush T999/E082 Locking nut\nT999/E040 Small brush T999/E083 Allen key\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253730",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "86a50463",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 141,
+    "total_chunks": 149,
+    "text": "77of84TABLE F\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253756",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "17612d14",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 142,
+    "total_chunks": 149,
+    "text": "78of84\nPart No. Description Part No. Description\nT999/F001 Body T999/F022 Micrometer\nT999/F002 Flange T999/F023 Lock\nT999/F003 Hand wheel T999/F026 Switch\nT999/F004 Plate T999/F029 Knob\nT999/F005 Base T999/F030 Knob\nT999/F00 7 Sleeve T999/F031 Allen key\nT999/F008 Screw T999/F032 Allen key\nT999/F009 Washer T999/F033 Screw\nT999/F010 Screw T999/F034 Screw\nT999/F011 Screw T999/F035 Screw\nT999/F012 Screw T999/F036 Screw\nT999/F013 Pin T999/F037 Nut\nT999/F014 Screw T999/F038 Nut\nT999/F015 Sleeve coupling T999/F039 Key\nT999/F016 Tie rod T999/F040 Washer\nT999/F019 Pin T999/F041 Plug\nT999/F020 Lever T999/F041 Bearing\nT999/F021 Nut T999/F042 Oiler\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253763",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "2b4eb325",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 143,
+    "total_chunks": 149,
+    "text": "79of84TABLE G TABLE H\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253777",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "e351ee3e",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 144,
+    "total_chunks": 149,
+    "text": "80of84Part No. Descripti on Part No. Description\nT999/G001 Knob T999/H001 Knob\nT999/G002 Plug T999/H002 Plug\nT999/G003 Plain bearing T999/H003 Plain bearing\nT999/G004 Screw T999/H004 Screw\nT999/G005 Sleeve coupling T999/H005 Sleeve coupling\nT999/G006 Brass probe T999/H006 Probe\nT999/G007 Screw T999/H007 Knob\nT999/G008 Nut T999/H008 Nut\nT999/G009 Screw T999/H009 Screw\nT999/G010 Body T999/H010 Nut\nT999/G011 Allen key T999/H011 Bolt\nT999/H012 Bolt\nT999/H013 Lower body\nT999/H014 Nut\nT999/H 015 Washer\nT999/H016 Screw\nT999/H017 Plate\nT999/H018 Bolt\nT999/H019 Upper body\n12.1ACCESSORIES SUPPLIED\n1)Self-centring device 3+3 \u00d8 160 mm 2)Movable rest\n3)Independent jawed spindle 4+4 \u00d8 200 mm 4)Reduction bushing CM5\n5)Fixed rest 6)Flange \u00d8 250 mm\n7)Adjustable brake 8)Rotating tailstock CM 3\n9)Spindle protector 10) Threading comparator\n11) Quick change turret 12) Rear splashguard\n13) Pedal brake 14) Lead screw guard\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253787",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "cb593d37",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 145,
+    "total_chunks": 149,
+    "text": "81of8413DISPOSAL OF PARTS AN D MATERIALS\nIf the ma chine is to be scrapped, its parts must be disposed of differently.\nThe Lathe is composed of the following materials:\n\uf0b7the head, the table, the tailstock, the slides and the carriages are made of cast iron;\n\uf0b7the gears, shafts, bearings, slideways and spindle are made of steel.\nRespect the environment!\nContact a specialist centre for the collection of metallic material s.\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253814",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "8cbbbe55",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 146,
+    "total_chunks": 149,
+    "text": "82of8414TROUBLESHOOTING\nPROBLEM PROBABLE CAUSE SOLUTION\nNoisy operationA)Damaged bearings.\nB)Bearings not lubricated.\nC)Blunt tool.\nD) Loose tool.B)Contact Customer Service.\nC)Lubricate\nD)Remove/sharpen the tool.\nE)Tighten the fastening lever.\nThe motor will no t\nstart.A)Electrical power supply.\nB)Wiring connections\nC)Burnt motor windings.\nD)Blown fuses.\nE)Broken switch.A)Check the mains power\nsupply.\nB)Check the wiring\nconnections.\nC)Contact Technical Support.\nD)Replace the fuses.\nE)Contact technical support.\nThe tool \"s oftens\"\nor overheats too\nmuch.A)Excessive pressure on the\nworkpiece.\nB)Shavings will not discharge.\nC)Tool is worn or does not cut\nthe material well.\nD)Needs lubrication.A)Apply less pressure.\nB)Clean the machine.\nC)Check the tool sharpness and\nwear.\nD)Lubricate as you work.\nThe panel does\nnot display\ncorrectlyA)Data cables not connected\nproperly.\nB)Compensation factor is\nincorrect.\nF)\nC)Setting unit is not correct.A)Check the correct connection\nof data cables X, Y, Z at the\nrear of the panel.\nB)Proceed with the dec iding the\ncompensation factor and\nsetting of the panel.\nC)Check to see if the display\nunit is Metric or Imperial.\nfervi.com\nMACHINES AND\nACCESSORIES",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253835",
+      "entities": {
+        "equipments": [
+          "motor"
+        ],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "6e550d35",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 147,
+    "total_chunks": 149,
+    "text": "83of8415ELECTRIC CIRCUIT\n15.1Art. T999/400V\nfervi.com\nMACHINES AND\nACCESSORIES\n",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253860",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  },
+  {
+    "chunk_id": "aa018b14",
+    "document_id": "t999_user_manual",
+    "document_type": "pdf",
+    "chunk_index": 148,
+    "total_chunks": 149,
+    "text": "84of8415.2Art. T999/230V\nfervi.com",
+    "metadata": {
+      "doc_title": "t999_user_manual.pdf",
+      "doc_type": "pdf",
+      "ingestion_date": "2026-07-22T09:25:37.253867",
+      "entities": {
+        "equipments": [],
+        "actions": []
+      }
+    }
+  }
+]

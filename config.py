@@ -13,7 +13,7 @@ class Settings(BaseSettings):
     # LLM & Embeddings (Updated for Gemini)
     GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", "")
     EMBEDDING_MODEL: str = "all-MiniLM-L6-v2"  
-    LLM_MODEL: str = "gemini-1.5-flash"
+    LLM_MODEL: str = "gemini-2.5-flash"
     TEMPERATURE: float = 0.2
     
     # Storage Paths
