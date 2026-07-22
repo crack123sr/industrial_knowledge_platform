@@ -115,7 +115,7 @@ export default function App() {
       const response = await copilotAPI.uploadDocument(selectedFile);
       setUploadStatus({
         success: true,
-        message: response.message || 'Manual uploaded successfully!',
+        message: 'File uploaded successfully',
       });
       setSelectedFile(null);
     } catch (error: unknown) {
