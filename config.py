@@ -37,3 +37,4 @@ settings = Settings()
 # Ensure directories exist
 Path(settings.FAISS_INDEX_PATH).parent.mkdir(parents=True, exist_ok=True)
 Path(settings.DOCUMENTS_PATH).mkdir(parents=True, exist_ok=True)
+
