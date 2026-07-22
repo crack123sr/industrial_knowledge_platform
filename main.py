@@ -1,3 +1,5 @@
+from typing import Optional
+
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -17,11 +19,9 @@ app.add_middleware(
 
 copilot = IndustrialCopilotAgent()
 
-from typing import Optional  # Make sure to import Optional
-
 class QueryRequest(BaseModel):
     query: str
-    equipment_id: Optional[str] = None  # Allows string, null, or missing entirely
+    equipment_id: Optional[str] = None  # Optional: Pass this if asking about a specific asset
 
 @app.get("/")
 def health_check():
